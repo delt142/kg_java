@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kg_java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/kg_java_jar</output-path>
+    <root id="archive" name="kg_java.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Загрузки/LWJGL3.3.3/LWJGL-lwjgl3-4546b98/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="kg_java" />
+    </root>
+  </artifact>
+</component>
